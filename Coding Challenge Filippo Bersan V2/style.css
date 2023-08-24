@@ -1,0 +1,100 @@
+/* <!--SELETTORE {
+  proprietà: valore;
+  proprietà: valore;
+} -> */
+
+/* p{
+  color: green;
+} */
+
+body {
+   background-image: url(background.jpg);
+   background-size: cover;
+  
+
+ }
+
+.container{
+  background-color: rgba(0, 0, 0, .5);
+  width: 60%;
+  margin: auto;
+  border-radius: 30px;
+  padding: 50px;
+
+ }
+
+
+p{
+  margin: 0;
+  padding: 0;
+
+}
+
+
+#logoheader{
+    display: block;
+    margin: auto;
+    height: 100px;
+    padding: 10px;
+}
+
+h1{
+  color: RGB(72, 251, 71);
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+h2{
+  color: white;
+  size: 20px;
+}
+
+.rettangolo{
+    background-color: RGB(72, 251, 71);
+    width: 100%;
+    height: 40px;
+  }
+
+.naviga{
+  padding: 10px;
+  margin: auto;
+  text-align: center;
+}
+
+button{
+  text-align: center;
+  margin:
+
+}
+
+p{
+  color: white;
+}
+
+.metacarica{
+
+  background-color: orange;
+      width: 30%;
+      height: 20px;
+      border-radius: 30px;
+}
+
+.caricacompleta{
+
+  background-color: RGB(72, 251, 71);
+      width: 60%;
+      height: 20px;
+      border-radius: 30px;
+
+}
+
+
+.caricacscarica{
+
+  background-color: red;
+      width: 10%;
+      height: 20px;
+      border-radius: 30px;
+
+}
